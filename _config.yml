@@ -1,0 +1,18 @@
+title: <p align="center"> Camilo Villegas Vargas </p>
+
+logo: images/1664844084752.jpg
+
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/camilo-villegas-55996b160/">LinkedIn</a> |
+  <a href="https://github.com/HYP03">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Electrical Engineering Student, Data Science and automation enthusiast
+  <br><br>
+  </p>
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
