@@ -6,4 +6,10 @@ Este repositorio incluye el ajuste de un modelo ARMA para pronosticar el númér
 
 ![](images/sunspots.jpg)
 
+
+## [Pronosticando el número de manchas solares](https://github.com/HYP03/Sun_spots)
+Este repositorio presenta un acercamiento a multiples clasificadores a modo de ejempplo para la competicion Titanic de Kaggle
+
+![](https://www.kaggle.com/competitions/titanic/data)
+
 ---
