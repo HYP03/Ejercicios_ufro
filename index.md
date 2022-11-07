@@ -13,7 +13,7 @@ Este repositorio presenta un acercamiento a multiples clasificadores a modo de e
 ![](images/Titanic.jpg)
 
 
-## [Predictor Alzheimer](https://github.com/HYP03/Deteccion_Alzheimer/blob/main/Proj1.html)
+## [Predictor Alzheimer](https://github.com/HYP03/Deteccion_Alzheimer)
 Este repositorio presenta un acercamiento a multiples clasificadores para la prediccion temprana del Alzheimer
 
 ![](images/dataset-cover.jpg)
