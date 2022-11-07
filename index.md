@@ -7,7 +7,7 @@ Este repositorio incluye el ajuste de un modelo ARMA para pronosticar el númér
 ![](images/sunspots.jpg)
 
 
-## [Predictor sobrevivientes Titanic](https://github.com/HYP03/Titanic_prj/blob/main/Project_titanic/Titanic.ipynb)
+## [Predictor sobrevivientes Titanic](https://hyp03.github.io/Titanic_prj/)
 Este repositorio presenta un acercamiento a multiples clasificadores a modo de ejempplo para la competicion Titanic de Kaggle
 
 ![](images/Titanic.jpg)
