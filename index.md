@@ -18,7 +18,7 @@ Este repositorio presenta un acercamiento a multiples clasificadores para la pre
 
 ![](images/dataset-cover.jpg)
 
-## [Clasificador de Anuros](https://github.com/HYP03/Proj_Anuran/)
+## [Clasificador de Anuros](https://github.com/HYP03/Proj_Anuran/](https://hyp03.github.io/Proj_Anuran/)
 Este repositorio presenta un acercamiento a la clasificación de datos no supervisados aplicando diferentes metodos de clustering.
 
 ![](images/Anuros.PNG)
